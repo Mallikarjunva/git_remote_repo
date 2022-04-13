@@ -6,3 +6,4 @@ Modified the remote
 Modified locally 
 I have added git words
 change from remote2
+change2 from remote2
